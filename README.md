@@ -10,7 +10,7 @@ The main objectives of this project are:
 - To provide a practical example for learning Python programming concepts such as input/output, loops, and data structures.
 - To demonstrate the use of external libraries and modules for creating art and visualizations.
 
-  ## Project Structure
+## Project Structure
 The project consists of the following key components:
 
 main.py: The main script that runs the auction.
@@ -18,14 +18,14 @@ art.py: A module for generating ASCII art used in the program.
 auction_flowchart.drawio: A flowchart created in draw.io to visualize the auction process.
 
 ## Files Overview
-main.py
+**main.py**
 This is the main script that handles the auction process. It includes:
 - Collecting bids from participants.
 - Determining the highest bid.
 - Announcing the winner.
   
-art.py
+**art.py**
 This module contains functions to generate and display ASCII art for the program. It is used to enhance the visual appeal of the auction interface.
 
-auction_flowchart.drawio
+**auction_flowchart.drawio**
 This file is a flowchart created in draw.io, visualizing the flow of the auction process. It helps in understanding the logic and structure of the program.
